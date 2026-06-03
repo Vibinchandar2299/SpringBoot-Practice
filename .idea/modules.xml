@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/dataJPAdemo.iml" filepath="$PROJECT_DIR$/.idea/dataJPAdemo.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/FirstProject.iml" filepath="$PROJECT_DIR$/.idea/FirstProject.iml" />
+>>>>>>> 95ce47522646f14f4dbeffe322c4e89d550b2b4f
     </modules>
   </component>
 </project>

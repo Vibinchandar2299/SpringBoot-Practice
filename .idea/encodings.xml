@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/dataJPAdemo/src/main/java" charset="UTF-8" />
+=======
+    <file url="file://$PROJECT_DIR$/FirstProject/src/main/java" charset="UTF-8" />
+>>>>>>> 95ce47522646f14f4dbeffe322c4e89d550b2b4f
   </component>
 </project>

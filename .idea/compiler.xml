@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+<<<<<<< HEAD
       <profile default="true" name="Default" enabled="true" />
       <profile name="Annotation profile for dataJPAdemo" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -11,12 +12,23 @@
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
         </processorPath>
         <module name="dataJPAdemo" />
+=======
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FirstProject" />
+>>>>>>> 95ce47522646f14f4dbeffe322c4e89d550b2b4f
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+<<<<<<< HEAD
       <module name="dataJPAdemo" options="-parameters" />
+=======
+      <module name="FirstProject" options="-parameters" />
+>>>>>>> 95ce47522646f14f4dbeffe322c4e89d550b2b4f
     </option>
   </component>
 </project>
